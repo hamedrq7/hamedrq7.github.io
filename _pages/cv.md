@@ -1,7 +1,9 @@
 ---
 layoutl: defaults
 title: "misc"
-permalink: "/misc.html"
+permalink: "/cv.html"
 ---
 
-Misc
+cv add
+cv file add
+
