@@ -1,7 +1,9 @@
 ---
-title:  "sci-fi books"
+title:  "Latent Traversal"
 date: 2000-08-05
 ---
+
+
 As a part of this project, which was a homework for neural network course, i trained deep convolutional GAN on CIFAR10 and mamals of REAL domain of DomainNet dataset. 
 The fake images are pretty satisfactory, for the domain net, they do look like mammals if i take off my glasses :) 
 
