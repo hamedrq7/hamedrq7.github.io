@@ -15,7 +15,7 @@ exclude:
    - README.md
 header_pages:
    - _pages/pubs.md
-   - _pages/misc.md
+   - _pages/cv.md
 disqus:
     shortname: website-11
 google_analytics: UA-104133739-1
