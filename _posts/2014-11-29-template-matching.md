@@ -3,7 +3,6 @@ title:  "First Blog"
 date:   2222-11-29
 ---
 
-# Latent Traversal
 As a part of this project, which was a homework for neural network course, i trained deep convolutional GAN on CIFAR10 and mamals of REAL domain of DomainNet dataset. 
 The fake images are pretty satisfactory, for the domain net, they do look like mammals if i take off my glasses :) 
 
