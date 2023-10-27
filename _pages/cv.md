@@ -1,6 +1,6 @@
 ---
 layoutl: defaults
-title: "misc"
+title: "cv"
 permalink: "/cv.html"
 ---
 
