@@ -4,4 +4,4 @@ title: "cv"
 permalink: "/cv.html"
 ---
 
-[Link to my CV](https://drive.google.com/drive/u/3/folders/1sAluO592wmqpnUqj8xLEW5cRZLgVycDB)
+[Link to my CV](https://drive.google.com/file/d/1TLOAU9uHl3D4kCclwfdnMv1LZZ7EulXO/view)
