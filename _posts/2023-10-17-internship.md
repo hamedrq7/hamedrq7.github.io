@@ -11,4 +11,4 @@ The temporal aspect of data collected over 6 months was my primary challenge. Wh
 One of the challenges I faced was figuring out how to use machine learning methods I've learned on biosignals effectively. While there are a lot of promising methods for image and text analysis, it's not entirely clear how well they'll work for biosignals. For example, Applying ZCA whitening on images has a noticeable impact that can be perceived visually ([link](https://bbabenko.github.io/low-level-features/)). However, what effect will it have on a single epoch of biosignals?
 
 Overall, this internship was a positive experience for me. I not only gained new experiences working with real-world data but also developed my professional skills. 
-[Here is my final report by the way](/assets/papers/Automatic%20epileptic%20seizure%20detection%20using%20multimodal%20biosignals%20recorded%20from%20a%20wearable%20device.pdf) 
+[Here is my final report by the way](https://drive.google.com/file/d/1SV2zmGE-ge9zEr1taZ2jdHqJ7BLM0i3Y/view) 
