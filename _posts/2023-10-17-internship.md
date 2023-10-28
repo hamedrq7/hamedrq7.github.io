@@ -1,8 +1,8 @@
 ---
-title: finally finished my internship
+title: My experience during internship at Neurosina
 date: 2023-10-17
 ---
-I finally finished writing my report for my summer internship! I started working at Neurosina in late July. The internship project involved developing a seizure detection model using multimodal biosignals from the Empatica E4 wristband.
+I finally finished writing my report for my summer internship! I started working at [Neurosina](https://www.linkedin.com/company/neurosina) in late July. The internship project involved developing a seizure detection model using multimodal biosignals from the Empatica E4 wristband.
 
 This summer internship was my first job outside of university, in a more professional setting. Although I hadn't previously worked with biomedical data, I knew it needed way more preprocessing and data cleaning than image benchmark datasets. However, I was still surprised at how much preprocessing it required. In addition to missing data, some were inaccurate, and due to the large volume of the data, we couldn't manually clean it up. Instead, we had to use a signal quality evaluation algorithm to generate a signal quality control signal and detect any invalid data.
 
