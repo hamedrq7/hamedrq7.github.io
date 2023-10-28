@@ -4,6 +4,4 @@ title: "cv"
 permalink: "/cv.html"
 ---
 
-cv add
-cv file add
-
+[Link to my CV](https://drive.google.com/drive/u/3/folders/1sAluO592wmqpnUqj8xLEW5cRZLgVycDB)
